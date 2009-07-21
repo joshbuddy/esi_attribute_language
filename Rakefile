@@ -1,7 +1,7 @@
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
-    s.name = "esi_attribute_langague"
+    s.name = "esi_attribute_language"
     s.description = s.summary = "ESI Attribute Language"
     s.email = "joshbuddy@gmail.com"
     s.homepage = "http://github.com/joshbuddy/esi_attribute_language"

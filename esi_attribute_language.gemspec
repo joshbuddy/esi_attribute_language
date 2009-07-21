@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{esi_attribute_langague}
+  s.name = %q{esi_attribute_language}
   s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Joshua Hull"]
-  s.date = %q{2009-07-18}
+  s.date = %q{2009-07-21}
   s.description = %q{ESI Attribute Language}
   s.email = %q{joshbuddy@gmail.com}
   s.files = [

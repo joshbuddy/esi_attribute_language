@@ -376,14 +376,14 @@ module_eval(<<'.,.,', 'grammar.y', 30)
   end
 .,.,
 
-module_eval(<<'.,.,', 'grammar.y', 35)
+module_eval(<<'.,.,', 'grammar.y', 34)
   def _reduce_22(val, _values, result)
      result = Node.cleanse_string(val[0]) 
     result
   end
 .,.,
 
-module_eval(<<'.,.,', 'grammar.y', 36)
+module_eval(<<'.,.,', 'grammar.y', 35)
   def _reduce_23(val, _values, result)
      result = val[0] 
     result
